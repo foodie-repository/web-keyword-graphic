@@ -6,8 +6,9 @@
 
 - 기능·디자인 수정은 개발 원본에서 구현·검증하고 빌드 산출물로 배포한다. 압축된 `assets/` 파일을 직접 수정하지 않는다.
 - 개발 원본의 Git 이력, 내부 문서, 개인 메모, 로컬 경로와 인증 정보를 업로드하지 않는다.
-- 공개 문서만 수정할 때는 앱 자산과 `deployment.json`의 앱 빌드 정보를 유지한다. 문서의 편집 원본은 개발 프로젝트의 `docs/deployment/public-README.md`와 `public-AGENTS.md`다. 원격 문서 변경이 있으면 다음 배포 전에 편집 원본과 대조한다.
-- 앱 배포 시 `/web-keyword-graphic/` 자산 경로, `.nojekyll`, `deployment.json`, `README.md`, `AGENTS.md`를 유지한다. 해시 링크를 도메인 루트로 옮기지 않는다.
+- 공개 문서만 수정할 때는 앱 자산과 `deployment.json`의 앱 빌드 정보를 유지한다. 편집 원본은 개발 프로젝트의 `docs/deployment/public-*.md`, `public-issue-templates/`, `public-media/`이며 배포 경로 매핑은 개발 프로젝트의 배포 지침을 따른다. 원격 문서 변경이 있으면 다음 배포 전에 편집 원본과 대조한다.
+- 앱 배포 시 `/web-keyword-graphic/` 자산 경로, `.nojekyll`, `deployment.json`, 공개 Markdown 문서, `.github/ISSUE_TEMPLATE/`, `media/`를 유지한다. 해시 링크를 도메인 루트로 옮기지 않는다.
+- 공개 변경 기록에는 실제 공개된 기능·사용 안내의 변경만 적는다. 내부 작업 로그나 미확정 계획을 공개 완료 사항으로 쓰지 않는다. Issue 검증을 위해 임의의 공개 Issue를 제출하지 않는다.
 
 ## 검증과 배포
 

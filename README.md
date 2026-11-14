@@ -6,6 +6,12 @@
 
 **[웹 모션 가이드 열기 →](https://foodie-repository.github.io/web-keyword-graphic/)**
 
+[![실제 사이트의 타이핑, 텍스트 스크램블, 분할 텍스트, 숫자 증가 모션 예시](media/motion-examples.gif)](https://foodie-repository.github.io/web-keyword-graphic/#motion-group-1)
+
+실제 사이트에서 캡처한 약 6초의 예시입니다. GIF는 한 번 재생하도록 만들었습니다. [정적 이미지 보기](media/motion-examples.png) · [사이트에서 다시 움직임 보기](https://foodie-repository.github.io/web-keyword-graphic/#motion-group-1)
+
+[타이핑](https://foodie-repository.github.io/web-keyword-graphic/#/typewriter) · [텍스트 스크램블](https://foodie-repository.github.io/web-keyword-graphic/#/text-scramble) · [분할 텍스트](https://foodie-repository.github.io/web-keyword-graphic/#/split-text) · [숫자 증가](https://foodie-repository.github.io/web-keyword-graphic/#/count-up)
+
 ## 이렇게 사용하세요
 
 1. 첫 화면의 움직이는 카드에서 원하는 효과를 고릅니다. 그룹 바로가기로 기본 움직임, 글자와 그림, 화면과 마우스 효과를 살펴볼 수 있습니다.
@@ -32,8 +38,18 @@
 
 데스크톱과 390px·320px의 터치 에뮬레이션에서 탐색·요청문 복사·배포 자산을 검증했습니다. 실제 휴대전화와 Safari 전체 동작을 검증한 것으로 보지는 않습니다. 학습 시연의 저장·신청·결제 등은 설명을 위한 모형입니다.
 
+## 의견을 보내 주세요
+
+설명이 이해되지 않거나 요청문 복사·모바일 화면에 문제가 있으면 알려 주세요. 보고 싶은 효과도 제안할 수 있습니다. 코드를 몰라도 괜찮습니다.
+
+- [문제 신고하기](https://github.com/foodie-repository/web-keyword-graphic/issues/new?template=bug_report.md): 어떤 화면에서 무엇을 했고 어떤 결과가 나왔는지 알려 주세요.
+- [효과 제안하기](https://github.com/foodie-repository/web-keyword-graphic/issues/new?template=effect_request.md): 효과의 이름을 몰라도 원하는 움직임과 사용 장면을 설명해 주세요.
+- [의견 작성 안내](FEEDBACK.md) · [기존 의견 보기](https://github.com/foodie-repository/web-keyword-graphic/issues) · [공개 변경 기록](CHANGELOG.md)
+
+Issue 작성에는 GitHub 로그인이 필요합니다. 접수된 제안은 검토 대상이며 반영 일정이 확정된 것은 아닙니다.
+
 ## 이 저장소에 관하여
 
-이 저장소는 **GitHub Pages 공개 배포용**입니다. 실행에 필요한 정적 빌드 파일과 공개 안내 문서를 관리하며, React·TypeScript 개발 원본과 내부 작업 문서는 포함하지 않습니다. 따라서 이 저장소를 복제해 `npm install`이나 `npm run dev`로 개발하는 구조는 아닙니다.
+이 저장소는 **웹 모션 가이드의 소개·사용 안내·피드백과 GitHub Pages 배포**를 위한 공개 공간입니다. 실행에 필요한 정적 빌드 파일과 공개 안내 문서를 관리하며, 개발 소스와 내부 작업 문서는 별도로 비공개 관리합니다. 이 저장소를 복제해 `npm install`이나 `npm run dev`로 개발하는 구조는 아닙니다.
 
 사이트는 Vite·React·TypeScript로 제작했으며 `/web-keyword-graphic/` 경로에서 동작합니다. [deployment.json](deployment.json)에는 앱 빌드의 원본 커밋과 배포 정보가 있습니다. 공개 문서만 수정한 커밋은 앱 빌드의 변경과 구분합니다. 배포 파일을 다루는 작업 지침은 [AGENTS.md](AGENTS.md)에 있습니다.
