@@ -1,0 +1,1 @@
+function e(){return{title:`필요한 순간에 도착한 설명`,text:`이 문장은 별도 JavaScript 모듈에서 가져왔습니다. 버튼을 누르기 전에는 이 모듈을 import하지 않습니다. 나눈 파일을 언제 요청할지는 별도로 정해야 합니다.`}}export{e as lessonSummary};
