@@ -6,11 +6,19 @@
 
 **[웹 모션 가이드 열기 →](https://foodie-repository.github.io/web-keyword-graphic/)**
 
-[![실제 사이트의 타이핑, 텍스트 스크램블, 분할 텍스트, 숫자 증가 모션 예시](media/motion-examples.gif)](https://foodie-repository.github.io/web-keyword-graphic/#motion-group-1)
+## 글자와 숫자
 
-실제 사이트에서 캡처한 약 6초의 예시입니다. GIF는 한 번 재생하도록 만들었습니다. [정적 이미지 보기](media/motion-examples.png) · [사이트에서 다시 움직임 보기](https://foodie-repository.github.io/web-keyword-graphic/#motion-group-1)
+[![타이핑·텍스트 스크램블·분할 텍스트·숫자 증가를 2×2로 배치한 실제 모션 예시](media/motion-text-grid.gif)](https://foodie-repository.github.io/web-keyword-graphic/#motion-group-1)
 
-[타이핑](https://foodie-repository.github.io/web-keyword-graphic/#/typewriter) · [텍스트 스크램블](https://foodie-repository.github.io/web-keyword-graphic/#/text-scramble) · [분할 텍스트](https://foodie-repository.github.io/web-keyword-graphic/#/split-text) · [숫자 증가](https://foodie-repository.github.io/web-keyword-graphic/#/count-up)
+[정적 이미지 보기](media/motion-text-grid.png) · [타이핑](https://foodie-repository.github.io/web-keyword-graphic/#/typewriter) · [텍스트 스크램블](https://foodie-repository.github.io/web-keyword-graphic/#/text-scramble) · [분할 텍스트](https://foodie-repository.github.io/web-keyword-graphic/#/split-text) · [숫자 증가](https://foodie-repository.github.io/web-keyword-graphic/#/count-up)
+
+## 등장과 포인터 반응
+
+[![페이드·마그네틱 버튼·3D 틸트·스크롤 리빌을 2×2로 배치한 실제 모션 예시](media/motion-interaction-grid.gif)](https://foodie-repository.github.io/web-keyword-graphic/#cheatsheet)
+
+[정적 이미지 보기](media/motion-interaction-grid.png) · [페이드](https://foodie-repository.github.io/web-keyword-graphic/#/fade) · [마그네틱 버튼](https://foodie-repository.github.io/web-keyword-graphic/#/magnetic-button) · [3D 틸트](https://foodie-repository.github.io/web-keyword-graphic/#/tilt-card) · [스크롤 리빌](https://foodie-repository.github.io/web-keyword-graphic/#/scroll-reveal)
+
+각 GIF는 실제 사이트의 상세 미리보기를 캡처해 2×2로 배치한 약 6초의 예시이며, 한 번 재생하도록 만들었습니다. 포인터와 스크롤은 동작을 설명하는 자동 연출입니다. 실제 적용 조건은 각 효과의 요청문에서 확인하세요. 움직임을 다시 보려면 위의 효과별 링크로 사이트를 열어 주세요.
 
 ## 이렇게 사용하세요
 
